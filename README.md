@@ -6,7 +6,7 @@
 <img width="1878" height="1250" alt="image" src="https://github.com/user-attachments/assets/4cb44ddc-ffdd-4805-b9bf-58d95cd28d27" />
 
 
-自测连热点的情况下这几个回国节点是可用的虽然慢点（企查查和爱企查都会恢复显示页面不会屏蔽），这垃圾的校园网。
+自测连热点的情况下这几个回国节点是可用的虽然慢点（企查查和爱企查和www.12315.cn都会恢复显示页面不会屏蔽），这垃圾的校园网。
 
 
 ---
