@@ -6,6 +6,9 @@
 <img width="1878" height="1250" alt="image" src="https://github.com/user-attachments/assets/4cb44ddc-ffdd-4805-b9bf-58d95cd28d27" />
 
 
+自测连热点的情况下这几个回国节点是可用的（企查查和爱企查都会恢复显示页面不会屏蔽），这垃圾的校园网。
+
+
 ---
 连校园网的情况更差，不知道是我这个大学的校园网ip被识别为垃圾ip了还是怎么
 <img width="1901" height="1026" alt="image" src="https://github.com/user-attachments/assets/17fe051e-abf3-4c5c-9ca6-1fbf27465f98" />
